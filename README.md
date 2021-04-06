@@ -10,5 +10,3 @@ Dependencies:
 - shutil
 - time
 - getpass
-
-Contact: sylvanchouhan@gmail.com
